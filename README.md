@@ -1,28 +1,46 @@
-🧪 SolanaFactory — All in one SAAS on Solana
-SolanaFactory is currently an open token creation tool on the Solana blockchain.
-Users can create SPL tokens with custom supply, decimals, metadata, and revoke authorities (mint/freeze/update) for better decentralization.
+# SolFactory — Free Audited Solana Token Creator
 
-🌐 Live App
-https://solanafactory.io
+SolFactory is a decentralized tool that allows anyone to create Solana tokens securely and easily.
 
-🔧 Features
-Create SPL tokens in seconds
+## 🌟 Features
 
-Revoke mint/freeze/update authorities
+- No code Solana token creation
+- Optional revocation of mint/freeze/update authorities
+- IPFS metadata upload (via Pinata)
+- Phantom wallet integration
+- Real time creation progress
 
-Upload token logo + metadata to IPFS via Pinata
+## 🔒 Security
 
-Transparent UI with wallet connection (Phantom, Solflare, etc.)
+- No auto connect or auto approve
+- No wallet permissions beyond what is needed to create the token
+- Source code fully open for transparency
 
-No wallet auto-connect or auto-approve
+## 🔗 Live Website
 
-👨‍💻 Developer Info
-This tool was built by the SolanaFactory team to help projects and communities launch decentralized tokens safely.
+👉 https://solanafactory.io
 
-We are an independent developer team with prior experience building Web3 dApps.
-More updates and features (like vesting and liquidity lock) coming soon.
+## 📲 Social Media
 
-🔗 Social Links
-Twitter: https://x.com/solanafactoryio
+- Twitter: [@solanafactoryio](https://x.com/solanafactoryio)
+- Telegram: [SolFactoryDeFi](https://t.me/SolFactoryDeFi)
 
-Telegram: https://t.me/SolFactoryDeFi
+---
+
+## 🛠 Stack
+
+- Next.js / React
+- Tailwind CSS
+- Solana Web3.js
+- SPL Token / Metaplex Token Metadata
+- Pinata (IPFS)
+
+---
+
+## 👨‍💻 Developer
+
+GitHub: https://github.com/ElectrooLite  
+Telegram: ElectrooLite
+Discord: ElectrooLite
+
+This project is maintained by a solo developer committed to building safe, open tools for the Solana ecosystem.
