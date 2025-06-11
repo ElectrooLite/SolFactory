@@ -40,6 +40,7 @@ SolFactory is a decentralized tool that allows anyone to create Solana tokens se
 ## 👨‍💻 Developer
 
 GitHub: https://github.com/ElectrooLite  
+X: https://x.com/ElectrooLite
 Telegram: ElectrooLite
 Discord: ElectrooLite
 
