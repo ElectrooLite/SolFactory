@@ -1,4 +1,4 @@
-# SolFactory — Free Audited Solana Token Creator
+# SolFactory — Solana Token Creator & Solana SAAS
 
 SolFactory is a decentralized tool that allows anyone to create Solana tokens securely and easily.
 
